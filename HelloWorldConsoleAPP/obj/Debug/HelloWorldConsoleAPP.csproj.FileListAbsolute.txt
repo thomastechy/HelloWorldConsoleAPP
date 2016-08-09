@@ -1,0 +1,6 @@
+c:\csharp\book\HelloWorldConsoleAPP\HelloWorldConsoleAPP\bin\Debug\HelloWorldConsoleAPP.exe.config
+c:\csharp\book\HelloWorldConsoleAPP\HelloWorldConsoleAPP\bin\Debug\HelloWorldConsoleAPP.exe
+c:\csharp\book\HelloWorldConsoleAPP\HelloWorldConsoleAPP\bin\Debug\HelloWorldConsoleAPP.pdb
+c:\csharp\book\HelloWorldConsoleAPP\HelloWorldConsoleAPP\obj\Debug\HelloWorldConsoleAPP.csprojResolveAssemblyReference.cache
+c:\csharp\book\HelloWorldConsoleAPP\HelloWorldConsoleAPP\obj\Debug\HelloWorldConsoleAPP.exe
+c:\csharp\book\HelloWorldConsoleAPP\HelloWorldConsoleAPP\obj\Debug\HelloWorldConsoleAPP.pdb
